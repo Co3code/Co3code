@@ -3,12 +3,10 @@
   <img src="banner.png" alt="Banner" />
 </p>
 
-<h1 align="center">Hi 👋, I'm CodeImaginer</h1>
-<h3 align="center">💻 Aspiring Full-Stack Developer | Open Source Contributor | Lifelong Learner 🚀</h3>
 
 ---
 
-### 👨‍💻 About Me
+<h1 align="center">ABOUT ME👋</h1>
 - 🌱 I’m currently sharpening my skills in **PHP, MySQL, and Full Stack Web Development**
 - 💬 Ask me about **Web Development, Databases, and Open Source Projects**
 - 📫 Reach me at: **countian3@gmail.com**
