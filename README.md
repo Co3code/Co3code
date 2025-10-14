@@ -1,16 +1,42 @@
-## Hi there 👋
 
-<!--
-**Co3code/Co3code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!-- Banner -->
+<p align="center">
+  <img src="banner.png" alt="Banner" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+### 👨‍💻 About Me
+- 🌱 I’m currently sharpening my skills in **PHP, MySQL, and Full Stack Web Development**
+- 💬 Ask me about **Web Development, Databases, and Open Source Projects**
+- 📫 Reach me at: **countian3@gmail.com**
+- ⚡ Fun fact: *I turn ☕ coffee into clean code*
+
+
+### 🚀 Languages & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,html,css,java,mysql,git,github,vscode" />
+</p>
+
+---
+
+### 📊 GitHub Insights
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Co3code&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Co3code&theme=tokyonight" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Co3code&layout=compact&theme=tokyonight" alt="top langs" />
+</p>
+
+---
+
+### 🌐 Connect with Me
+<p align="center">
+  <a href="mailto:countian3@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://github.com/Co3code"><img src="https://skillicons.dev/icons?i=github" /></a>
+</p>
+
+---
+
+⭐️ *Follow me for more cool projects — I’m just getting started as CodeImaginer 🚀*
