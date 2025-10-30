@@ -1,6 +1,10 @@
-<!-- Banner -->
+<!-- Animated Text Overlay on Clickable Banner -->
 <p align="center">
-  <img src="new.png" alt="Banner" width="100%" />
+  <a href="https://github.com/Co3code">
+    <img src="new.png" alt="Banner" width="100%" />
+    <!-- Animated Text Overlay -->
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi,+I'm+Co3code;Self-Taught+Full+Stack+Developer;Welcome+to+my+GitHub!" alt="Typing SVG" />
+  </a>
 </p>
 
 ---
