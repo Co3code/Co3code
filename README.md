@@ -1,42 +1,53 @@
-
-
 <!-- Banner -->
 <p align="center">
-  <img src="new.png" alt="Banner" />
+  <img src="new.png" alt="Banner" width="100%" />
 </p>
-
 
 ---
 
-### 👨‍💻 About Me
-- 🌱 I’m currently sharpening my skills in **PHP, MySQL, and Full Stack Web Development**
-- 💬 Ask me about **Web Development, Databases, and Open Source Projects**
-- 📫 Reach me at: **countian3@gmail.com**
-- ⚡ Fun fact: *I turn ☕ coffee into clean code*
+## 👋 Hi, I’m Co3code  
 
+I’m a **self-taught developer** on a continuous journey to become a **Full Stack Web Developer**.  
+Right now, I’m focusing on **PHP**, **MySQL**, and **modern web technologies** — building small projects, learning by doing, and pushing everything I create here on GitHub.  
 
-### 🚀 Languages & Tools
+Every repo you see is a piece of my learning path — mistakes, progress, and growth included. 🚀  
+
+---
+
+### 🧩 What I’m Working On
+- Building hands-on projects to strengthen my **backend & frontend** skills  
+- Learning how to structure cleaner, more efficient code  
+- Exploring **databases**, **APIs**, and **web app design**  
+- Sharing my progress to inspire other beginners who are learning too  
+
+---
+
+### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,html,css,java,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=php,html,css,js,java,mysql,git,github,vscode" />
 </p>
 
 ---
 
-### 📊 GitHub Insights
+### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Co3code&show_icons=true&theme=tokyonight" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Co3code&theme=tokyonight" alt="streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Co3code&layout=compact&theme=tokyonight" alt="top langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Co3code&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Co3code&theme=tokyonight" height="165" />
 </p>
 
----
-
-### 🌐 Connect with Me
 <p align="center">
-  <a href="mailto:countian3@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://github.com/Co3code"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Co3code&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-⭐️ *Follow me for more cool projects — I’m just getting started as CodeImaginer 🚀*
+### 📫 Connect with Me
+<p align="center">
+  <a href="mailto:countian3@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="gmail" /></a>
+  <a href="https://github.com/Co3code"><img src="https://skillicons.dev/icons?i=github" alt="github" /></a>
+</p>
+
+---
+
+⭐️ *I’m learning every day — one commit at a time.*  
+🧠 *Follow my journey as I grow from beginner to full stack developer.*
