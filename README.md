@@ -53,16 +53,5 @@ Every repo you see is a piece of my learning path — mistakes, progress, and gr
 
 ---
 
-### 🐍 Contribution Snake
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Co3code/Co3code/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Co3code/Co3code/output/snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Co3code/Co3code/output/snake.svg" />
-  </picture>
-</p>
-
----
-
 ⭐️ *I’m learning every day — one commit at a time.*  
 🧠 *Follow my journey as I grow from beginner to full stack developer.*
