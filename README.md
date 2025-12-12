@@ -9,8 +9,6 @@
 
 ---
 
-## 👋 Hi, I’m Co3code  
-
 I’m a **self-taught developer** on a continuous journey to become a **Full Stack Web Developer**.  
 Right now, I’m focusing on **PHP**, **MySQL**, and **modern web technologies** — building small projects, learning by doing, and pushing everything I create here on GitHub.  
 
