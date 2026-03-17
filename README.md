@@ -55,6 +55,7 @@ Every repo you see is a piece of my learning path — mistakes, progress, and gr
 </p>
 
 ---
+![snake gif](https://raw.githubusercontent.com/Co3code/Co3code/output/github-contribution-grid-snake.svg)
 
  *I’m learning every day — one commit at a time.*  
  *Follow my journey as I grow from beginner to full stack developer.*
