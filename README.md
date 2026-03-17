@@ -31,7 +31,7 @@ Every repo you see is a piece of my learning path — mistakes, progress, and gr
 
 ###  Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,html,css,js,java,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,firebase,php,java,mysql,git,github,vscode" /
 </p>
 
 ---
