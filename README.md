@@ -51,7 +51,7 @@ Every repo you see is a piece of my learning path — mistakes, progress, and gr
 ###  Connect with Me
 <p align="center">
   <a href="mailto:countian3@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="gmail" /></a>
-  <a href="https://github.com/Co3code"><img src="https://skillicons.dev/icons?i=github" alt="github" /></a>
+  
 </p>
 
 ---
