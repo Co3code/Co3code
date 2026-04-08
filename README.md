@@ -14,7 +14,7 @@
 
 ---
 
-I’m a **self-taught developer** on continuous journey to become a **Full Stack Web Developer**.  
+I’m a **self-taught developer** on a continuous journey to become a **Full Stack Web Developer**.  
 Right now, I’m focusing on **PHP**, **MySQL**, and **modern web technologies** — building small projects, learning by doing, and pushing everything I create here on GitHub.  
 
 Every repo you see is a piece of my learning path — mistakes, progress, and growth included.   
