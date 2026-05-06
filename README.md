@@ -39,15 +39,6 @@ Every repo you see is a piece of my learning path — mistakes, progress, and gr
 
 ### GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Co3code&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Co3code&theme=tokyonight" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Co3code&layout=compact&theme=tokyonight" />
-</p>
-
 ---
 
 ### Connect with Me
